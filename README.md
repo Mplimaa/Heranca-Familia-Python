@@ -1,6 +1,6 @@
 # Herança, exemplo para entendimento: Criação da Classe Família em Python 
 
-Este projeto, desenvolvido por mim, **Michele**, demonstra o uso de **Programação Orientada a Objetos (POO)** em Python, utilizando o conceito de **herança de classes** para representar uma família.
+Este repositório, desenvolvido por mim, **Michele**, demonstra o uso de **Programação Orientada a Objetos (POO)** em Python, utilizando o conceito de **herança de classes** para representar uma família.
 
 ## Estrutura
 
