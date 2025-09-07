@@ -23,6 +23,6 @@ filho = Filho("Silva", "Moqueca de peixe", "Bahia", brinquedo_favorito="Lego")
 pai.contar_historia()
 pai.comer_receita()
 pai.trabalhar()
-
+ 
 mae.estudar()
 filho.brincar()
